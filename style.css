@@ -1,3 +1,7 @@
+body {
+	background-color: pink;
+}
+
 img {
 	float: left;
 	width: 100px;
@@ -5,4 +9,5 @@ img {
 
 div {
 	width: 300px;
+	margin: auto;
 }
